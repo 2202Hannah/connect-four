@@ -1,0 +1,9 @@
+.board {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    padding: 20px;
+    background-color: rgb(43, 101, 226);
+    color: #fff;
+  }
+  
